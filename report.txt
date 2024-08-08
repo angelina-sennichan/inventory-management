@@ -1,0 +1,4 @@
+List of sku's having low stock
+Product Name|Product Quantity
+laptop|10
+Fan|8

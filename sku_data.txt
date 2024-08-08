@@ -1,0 +1,10 @@
+Product ID|Product Name|Price
+1|laptop|5000
+2|Mobile|4000
+3|Table|300
+4|Fan|150
+5|pencil|45
+6|Desk|90
+7|torch|10
+8|red|18
+9|blue|34
